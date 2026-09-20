@@ -2,7 +2,7 @@
 
 <img src="./ascii.svg" width="460" alt="Akshit Singh Bhandari"/>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+<img src="./stats.svg?v=1" width="620" alt="Contributions in the last year"/>
 
 <a href="https://github.com/akshitbhandaricodes" target="_blank">github</a> &nbsp;·&nbsp;
 <a href="https://x.com/akshitbhandarix" target="_blank">x</a> &nbsp;·&nbsp;
@@ -69,10 +69,10 @@ Secure OAuth workflows and Row Level Security implementation.
 
 <div align="center">
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+<img src="./streak.svg?v=1" width="620" alt="Current and longest streak"/>
 
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img src="./langs.svg?v=1" width="620" alt="Top languages by bytes and by repo"/>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+<img src="./year.svg?v=1" width="620" alt="The last year, one character per day"/>
 
 </div>

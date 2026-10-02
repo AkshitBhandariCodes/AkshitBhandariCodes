@@ -26,7 +26,7 @@ with robust RESTful APIs and modern frontend design.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**<a href="https://github.com/akshitbhandaricodes" target="_blank">Prod2Push</a>** &nbsp;·&nbsp; <samp>next.js, node.js, kubernetes</samp><br>
+**<a href="https://github.com/akshitbhandaricodes/Push2Prod" target="_blank">Push2Prod</a>** &nbsp;·&nbsp; <samp>next.js, node.js, kubernetes</samp><br>
 Scalable PaaS deployment platform using a Next.js/Node.js stack.<br>
 Automated CI/CD with Docker-in-Docker and Kubernetes for orchestration.
 

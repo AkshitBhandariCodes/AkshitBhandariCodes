@@ -15,6 +15,9 @@ documents.
 
 Idempotent: running it twice changes nothing.
 """
+import utils.http_session
+import utils.transport
+import utils.session
 import base64
 import os
 import re
